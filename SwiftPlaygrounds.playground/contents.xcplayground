@@ -6,5 +6,8 @@
         <page name='Sum_between_two_integers2'/>
         <page name='Number_strings'/>
         <page name='Kth_number'/>
+        <page name='Test'/>
+        <page name='Workout_clothes'/>
+        <page name='Claw_machine_game'/>
     </pages>
 </playground>

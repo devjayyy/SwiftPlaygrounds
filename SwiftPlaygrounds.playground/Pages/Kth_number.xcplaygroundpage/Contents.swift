@@ -9,7 +9,7 @@ func solution(_ array:[Int], _ commands:[[Int]]) -> [Int] {
             result.append(newArr[commands[i][0]-1]) //그 순서에 해당하는 newArr의 값을 바로 append
         }
         else { //2개 이상이면
-            var slice = newArr[commands[i][0]-1...commands[i][1]-1] //slice해줌
+            var slice = newArr[commands[i][0]-1...commands[i][1]-1] //slice해줌. 참조?
             //print(slice)
             var sortedArr = slice.sorted() //slice를 정렬해줌
             //print(sortedArr) //
