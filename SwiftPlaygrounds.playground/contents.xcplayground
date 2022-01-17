@@ -4,5 +4,6 @@
         <page name='PrimeNumber'/>
         <page name='Sum_between_two_integers'/>
         <page name='Sum_between_two_integers2'/>
+        <page name='Number_strings'/>
     </pages>
 </playground>
