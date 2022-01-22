@@ -12,5 +12,8 @@
         <page name='Change_string_to_integer'/>
         <page name='Even_odd'/>
         <page name='Average'/>
+        <page name='Descending'/>
+        <page name='String'/>
+        <page name='Erase_min_number'/>
     </pages>
 </playground>
