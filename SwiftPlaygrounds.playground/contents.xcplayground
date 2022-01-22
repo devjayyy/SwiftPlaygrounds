@@ -10,5 +10,7 @@
         <page name='Workout_clothes'/>
         <page name='Claw_machine_game'/>
         <page name='Change_string_to_integer'/>
+        <page name='Even_odd'/>
+        <page name='Average'/>
     </pages>
 </playground>
