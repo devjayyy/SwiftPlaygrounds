@@ -18,5 +18,5 @@ func solution2(_ arr:[Int]) -> Double {
 let array : [Int] = [5,5]
 
 print(solution(array))
-print(solution(array2))
+print(solution2(array))
 

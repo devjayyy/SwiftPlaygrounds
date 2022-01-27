@@ -1,6 +1,6 @@
 func solution(_ arr:[Int]) -> [Int] {
     var array = arr
-    array.remove(at: array.firstIndex(of: array.min()!)!)
+    array.remove(at: array.firstIndex(of: array.min()!)!)//index(of:)함수
     return array.isEmpty ? [-1] : array
 }
 
