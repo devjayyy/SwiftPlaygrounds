@@ -22,20 +22,14 @@ func solution(_ nums:[Int]) -> Int {
                 sum += nums[index] + nums[secondIndex] + nums[thirdIndex]
                 print(sum)
                 answer += primeCheck(sum)
-
                 sum = 0
             }
-            
         }
     }
     return Int(answer)
 
 }
-
-
 //var nums = [Int]()
 var nums : [Int] = [1, 2, 7, 6, 4]
-
 var result : Int = solution(nums)
-
 print(result)

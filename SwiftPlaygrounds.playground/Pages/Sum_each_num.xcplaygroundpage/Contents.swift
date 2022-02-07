@@ -1,0 +1,17 @@
+import Foundation
+
+func solution(_ n:Int) -> Int
+{
+    let arr = String(n).map{Int(String($0))!}
+    return arr.reduce(0,+)
+}
+
+func solution2(_ n:Int) -> Int
+{
+    //한 번에 반환
+    return String(n).map{ Int(String($0))! }.reduce(0, +)
+}
+
+let value = 123
+print(solution(value))
+print(solution2(value))

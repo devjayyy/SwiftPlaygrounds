@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='PrimeNumber'/>
+        <page name='Prime_number'/>
         <page name='Sum_between_two_integers'/>
         <page name='Sum_between_two_integers2'/>
         <page name='Number_strings'/>
@@ -15,5 +15,8 @@
         <page name='Descending'/>
         <page name='String'/>
         <page name='Erase_min_number'/>
+        <page name='Reverse_int_make_it_into_arr'/>
+        <page name='Sum_each_num'/>
+        <page name='The_number_of_P_and_Y'/>
     </pages>
 </playground>
