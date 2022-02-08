@@ -18,5 +18,11 @@
         <page name='Reverse_int_make_it_into_arr'/>
         <page name='Sum_each_num'/>
         <page name='The_number_of_P_and_Y'/>
+        <page name='Plus_two_nums'/>
+        <page name='Rectangle'/>
+        <page name='Gcd_lcm'/>
+        <page name='Add_nums'/>
+        <page name='Recommend_id'/>
+        <page name='2016'/>
     </pages>
 </playground>
