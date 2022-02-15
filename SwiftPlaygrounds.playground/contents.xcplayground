@@ -24,5 +24,11 @@
         <page name='Add_nums'/>
         <page name='Recommend_id'/>
         <page name='2016'/>
+        <page name='Sum_div'/>
+        <page name='Make_str'/>
+        <page name='X_n'/>
+        <page name='Phone_num'/>
+        <page name='Num_1'/>
+        <page name='Dot_product'/>
     </pages>
 </playground>

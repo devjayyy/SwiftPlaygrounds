@@ -66,3 +66,6 @@ func step7(id:String) -> String {
     }
     return id
 }
+
+var str = "Star"
+print(str)
