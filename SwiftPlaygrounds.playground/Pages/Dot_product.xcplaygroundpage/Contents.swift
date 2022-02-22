@@ -13,4 +13,3 @@ func solution2(_ a:[Int], _ b:[Int]) -> Int {
     return zip(a, b).map(*).reduce(0, +)
     //zip은 2쌍으로 된 시퀀스를 만들 수 있다.
 }
-

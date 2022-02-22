@@ -30,5 +30,11 @@
         <page name='Phone_num'/>
         <page name='Num_1'/>
         <page name='Dot_product'/>
+        <page name='Harshad_number'/>
+        <page name='Return_mail'/>
+        <page name='Middle_char'/>
+        <page name='Caesar_cipher'/>
+        <page name='Failure_rate'/>
+        <page name='Row_col'/>
     </pages>
 </playground>
